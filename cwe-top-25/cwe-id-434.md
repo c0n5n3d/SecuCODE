@@ -1,14 +1,19 @@
 # CWE ID 434
 
+<mark style="color:red;">**Note**</mark>
+
+1. <mark style="color:red;">**The provided code should be regarded as best practice.**</mark>
+2. <mark style="color:red;">**We do not have any responsibility if using this code on production causes any issues.**</mark>
+
 ## About CWE ID 434
 
-_**Unrestricted Upload of File with Dangerous Type**_
+_<mark style="color:green;">**Unrestricted Upload of File with Dangerous Type**</mark>_
 
 This vulnerability occurs when an application allows a user to upload a file without properly validating the file type and content.
 
 ### Impact
 
-* Execution of Arbitarty code
+* Execution of Arbitrary code
 * Server Compromise
 * Client Side Attacks
 * Cross Site Scripting
@@ -363,7 +368,9 @@ public partial class FileUpload : System.Web.UI.Page
 7. File storage: Store the uploaded files in a separate location that is not accessible from the web server.
 8. File scanning: Use virus scanners or other security software to scan the uploaded files for malware or other malicious content.
 9. Logging: Keep track of all file uploads, including the file name, size, and the user who uploaded it, to aid in incident response and auditing.
-10. Input validation: Properly validate all user input and sanitize it to prevent any type of injection attacks
+10. Input validation: Properly validate all user input and sanitize it to prevent any type of injection attacks.
+
+
 
 ## References
 
