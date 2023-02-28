@@ -4,7 +4,7 @@
 
 ## What is CWE 89 about?
 
-_**Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')**_
+_<mark style="color:green;">**Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')**</mark>_
 
 This Vulnerability occurs when attackers could able to inject malicious code into a database by exploiting poor input validation.
 

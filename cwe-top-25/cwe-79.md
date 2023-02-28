@@ -1,10 +1,10 @@
 # CWE 79
 
-<mark style="color:red;"></mark>[<mark style="color:red;">Disclaimer</mark>](broken-reference)<mark style="color:red;"></mark>
+<mark style="color:red;"></mark>[<mark style="color:red;">Disclaimer</mark>](../disclaimer.md)<mark style="color:red;"></mark>
 
 ## What is CWE 79 about?
 
-_**Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')**_
+_<mark style="color:green;">**Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')**</mark>_
 
 The vulnerability occurs **w**hen the user input is handled without performing proper validation or encoding.
 
