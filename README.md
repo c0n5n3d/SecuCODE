@@ -2,13 +2,14 @@
 
 A Repository where you can find Vulnerable and Mitigated code based on CWE categorization.
 
-## What
+## What?
 
 * This project focuses on providing vulnerable and mitigated code in three different programming languages, categorized by CWE ID, for educational purposes.
 
-## Why
+## Why?
 
-* We have observed a lack of a centralized repository where individuals can access vulnerable and mitigated code snippets and learn from a source code perspective. As newcomers to this field, we have found that there are limited resources available related to vulnerable code and the proper mitigation techniques. Furthermore, the existing repositories are often limited to certain CWE IDs, leaving many vulnerabilities unaddressed. These issues motivated us to create a comprehensive project that covers a wide range of CWE IDs and provides educational resources on source code review.
+* We have observed a lack of a centralized repository where individuals can access vulnerable and mitigated code snippets and learn from a source code perspective. As newcomers to this field, we have found that there are limited resources available related to vulnerable code and the proper mitigation techniques.&#x20;
+* Furthermore, the existing repositories are often limited to certain CWE IDs, leaving many vulnerabilities unaddressed. These issues motivated us to create a comprehensive project that covers a wide range of CWE IDs and provides educational resources on source code review.
 
 ## How & who can Contribute?
 
