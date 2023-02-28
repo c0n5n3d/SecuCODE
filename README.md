@@ -1,14 +1,10 @@
-# SecuCode
----
-## A Repository where you can find Vulnerable and Mitigated code based on CWE categorization. 
+# CWE Top 25
 
-## This project focuses on providing vulnerable and mitigated code in three different programming languages, categorized by CWE ID, for educational purposes.
+## SecuCode
 
-# Leaders
+***
 
-Raja Nagori
+### A Repository where you can find Vulnerable and Mitigated code based on CWE categorization.
 
-Gautam Sheikhar
-
-Ragavender
+### This project focuses on providing vulnerable and mitigated code in three different programming languages, categorized by CWE ID, for educational purposes.
 
