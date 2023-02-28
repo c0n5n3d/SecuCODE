@@ -1,14 +1,6 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1594904351111-a072f80b1a71?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb2RlfGVufDB8fHx8MTY3NzU2MjAzMA&ixlib=rb-4.0.3&q=80
-coverY: 0
----
-
 # SecuCode
 
-### Description
-
-This project focuses on providing vulnerable and mitigated code in three different programming languages, categorized by CWE ID, for educational purposes.
+A Repository where you can find Vulnerable and Mitigated code based on CWE categorization.
 
 ## What
 

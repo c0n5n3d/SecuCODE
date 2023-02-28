@@ -6,7 +6,7 @@
 
 ***
 
-* [CWE Top 25](<README (1).md>)
+* [CWE Top 25](cwe-top-25/README.md)
   * [CWE 787](readme/cwe-787.md)
   * [CWE 79](readme/cwe-79.md)
   * [CWE 89](readme/cwe-89.md)
