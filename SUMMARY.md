@@ -1,6 +1,12 @@
 # Table of contents
 
-* [CWE Top 25](README.md)
+## 🖥 SecuCode
+
+* [SecuCode](README.md)
+
+***
+
+* [CWE Top 25](<README (1).md>)
   * [CWE 787](readme/cwe-787.md)
   * [CWE 79](readme/cwe-79.md)
   * [CWE 89](readme/cwe-89.md)
@@ -12,7 +18,3 @@
 ## Contributors
 
 * [Leaders](contributors/leaders.md)
-
-## 🖥 SecuCode
-
-* [SecuCode](secucode/secucode.md)
