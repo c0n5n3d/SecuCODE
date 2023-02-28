@@ -1,6 +1,6 @@
 # CWE 434
 
-[<mark style="color:red;">**Disclaimer**</mark>](../readme/disclaimer.md)
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Disclaimer**</mark>](../readme/disclaimer.md)<mark style="color:red;">****</mark>
 
 ## About CWE ID 434
 
@@ -366,6 +366,8 @@ public partial class FileUpload : System.Web.UI.Page
 8. File scanning: Use virus scanners or other security software to scan the uploaded files for malware or other malicious content.
 9. Logging: Keep track of all file uploads, including the file name, size, and the user who uploaded it, to aid in incident response and auditing.
 10. Input validation: Properly validate all user input and sanitize it to prevent any type of injection attacks.
+
+
 
 ## References
 
