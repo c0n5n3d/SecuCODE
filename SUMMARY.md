@@ -12,3 +12,7 @@
 ## Contributors
 
 * [Leaders](contributors/leaders.md)
+
+## 🖥 SecuCode
+
+* [SecuCode](secucode/secucode.md)
