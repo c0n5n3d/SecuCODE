@@ -1,6 +1,6 @@
 # CWE 89
 
-<mark style="color:red;"></mark>[<mark style="color:red;">Disclaimer</mark>](../readme/disclaimer.md)<mark style="color:red;"></mark>
+<mark style="color:red;"></mark>[<mark style="color:red;">Disclaimer</mark>](broken-reference)<mark style="color:red;"></mark>
 
 ## What is CWE 89 about?
 

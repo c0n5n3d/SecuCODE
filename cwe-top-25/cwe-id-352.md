@@ -1,6 +1,6 @@
 # CWE 352
 
-<mark style="color:red;">****</mark>[<mark style="color:red;">**Disclaimer**</mark>](../readme/disclaimer.md)<mark style="color:red;">****</mark>
+[<mark style="color:red;">**Disclaimer**</mark>](broken-reference)
 
 ## About CWE ID 434
 
