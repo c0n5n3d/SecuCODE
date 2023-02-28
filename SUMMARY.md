@@ -18,3 +18,7 @@
 ## Contributors
 
 * [Leaders](contributors/leaders.md)
+
+***
+
+* [🗒 Template](template.md)
