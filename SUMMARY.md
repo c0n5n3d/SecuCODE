@@ -2,7 +2,7 @@
 
 ## 🖥 SecuCode
 
-* [SecuCode](README.md)
+* [SecuCODE](README.md)
 
 ***
 
