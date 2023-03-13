@@ -10,6 +10,7 @@
   * [CWE 787](cwe-top-25/cwe-787.md)
   * [CWE 79](cwe-top-25/cwe-79.md)
   * [CWE 89](cwe-top-25/cwe-89.md)
+  * [CWE 20](cwe-top-25/cwe-20.md)
   * [CWE 352](cwe-top-25/cwe-id-352.md)
   * [CWE 434](cwe-top-25/cwe-id-434.md)
   * [CWE 306](cwe-top-25/cwe-id-306.md)
