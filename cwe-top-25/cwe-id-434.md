@@ -61,7 +61,9 @@ This vulnerability occurs when an application allows a user to upload a file wit
 
 ### JAVA
 
-### _This is an example of the vulnerable code._
+Let us consider an example case and understand the CWE 434 with context of Vulnerable code and Mitigated code.
+
+#### _Vulnerable code._
 
 ```java
 import java.io.File;
@@ -110,7 +112,7 @@ This can be mitigated by
 * storing the uploaded files in a location that is not accessible from the web.
 * limiting the maximum file size that can be uploaded.
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```java
 import java.io.File;
@@ -211,7 +213,7 @@ Additionally, the code also validates the file type, checks the content type and
 
 ### Python
 
-### _This is an example of the vulnerable code._
+#### _Vulnerable code._
 
 ```python
 from flask import Flask, request, render_template
@@ -238,7 +240,7 @@ This can be mitigated by
 * Checking the double extension
 * Checking for the magic Bytes forgery
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```python
 from flask import Flask, request, render_template, redirect, url_for
@@ -289,7 +291,7 @@ This code is mitigated against CWE-434 (Unrestricted Upload of File with Dangero
 
 ### .NET
 
-### _This is an example of the vulnerable code._
+#### _Vulnerable code._
 
 ```vbnet
 using System;
@@ -325,7 +327,7 @@ public partial class FileUpload : System.Web.UI.Page
 
 This code allows users to upload files to the server without any validation or sanitization, making it vulnerable to malicious file uploads.
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```vbnet
 using System;

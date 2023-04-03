@@ -44,7 +44,9 @@
 
 </details>
 
-## About CWE ID 434
+## About CWE ID 352
+
+
 
 <mark style="color:green;">**Cross-Site Request Forgery (CSRF)**</mark>
 
@@ -62,7 +64,9 @@ CWE ID 352 refers to "Cross-Site Request Forgery (CSRF)" vulnerability which cou
 
 ### JAVA
 
-### _This is an example of the vulnerable code._
+Let us consider an example case and understand the CWE 352 with context of Vulnerable code and Mitigated code.
+
+#### _Vulnerable code._
 
 ```java
 // CSRF vulnerable Java code
@@ -89,7 +93,7 @@ This can be mitigated by
 
 * To mitigate this vulnerability, the server should include a unique token with each form or link, and validate that the token is correct when the request is submitted. This technique is called CSRF token or anti-CSRF token. The token should be unpredictable, unique, and tied to the user session to prevent replay attacks.
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```java
 @WebServlet("/transfer")
@@ -125,7 +129,7 @@ This code is mitigated against the following vulnerabilities:
 
 ### Python
 
-### _This is an example of the vulnerable code._
+#### _Vulnerable code._
 
 ```python
 # CSRF vulnerable Python code
@@ -154,7 +158,7 @@ This can be mitigated by
 * Server need to verify the token respective of the user’s session
 * Drop the request if the token is missing or invalid
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```python
 # Mitigated Python code with CSRF token validation
@@ -193,7 +197,9 @@ This code is mitigated against CWE-352
 
 ### .NET
 
-### _This is an example of the vulnerable code._
+#### __
+
+#### _Vulnerable code._
 
 ```vbnet
 // CSRF vulnerable .NET code
@@ -209,7 +215,7 @@ public ActionResult Transfer(string fromAccount, string toAccount, double amount
 
 This code is vulnerable to CSRF attacks as it does not include any mechanism to prevent unauthorized requests.
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```vbnet
 [HttpPost]
@@ -227,7 +233,7 @@ The **`ValidateAntiForgeryToken`** attribute ensures that the token in the hidde
 
 ### Nodejs
 
-### _This is an example of the vulnerable code._
+#### _Vulnerable code._
 
 ```jsx
 // CSRF vulnerable Node.js code
@@ -247,7 +253,7 @@ app.post('/transfer', (req, res) => {
 * The code appears to be vulnerable to CSRF because it does not include any mechanism to verify the origin of the request.
 * An attacker could create a malicious form on their own website that would submit a transfer request to the victim's account on the bank's website, resulting in unauthorized transfer of funds.
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```jsx
 app.post('/transfer', (req, res) => {
@@ -284,11 +290,7 @@ app.post('/transfer', (req, res) => {
 
 ## References
 
-\[CWE -
-
-```
-	CWE-352: Cross-Site Request Forgery (CSRF) (4.10)](https://cwe.mitre.org/data/definitions/352.html)
-```
+{% embed url="https://cwe.mitre.org/data/definitions/352.html" %}
 
 [Cross Site Request Forgery (CSRF) | OWASP Foundation](https://owasp.org/www-community/attacks/csrf)
 
