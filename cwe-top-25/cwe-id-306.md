@@ -59,7 +59,9 @@ CWE-306 (Missing Authentication for Critical Function) is a security weakness th
 
 ### JAVA
 
-### _This is an example of the vulnerable code._
+Let us consider an example case and understand the CWE 306 with context of Vulnerable code and Mitigated code.
+
+#### Vulnerable Code
 
 ```java
 import java.util.Scanner;
@@ -113,7 +115,7 @@ This can be mitigated by
 
 * We can restrict the delete permission and can only allow if the authenticate user is admin
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```java
 import java.util.Scanner;
@@ -176,7 +178,7 @@ This code is mitigated against the following vulnerabilities:
 
 ### Python
 
-### _This is an example of the vulnerable code._
+#### _Vulnerable code_
 
 ```python
 class AccountManager:
@@ -223,7 +225,7 @@ This can be mitigated as
 
 A mitigated version of this code would be to modify the **`delete_account()`** method to take the username and password as parameters, and to require that they match the hardcoded "admin" and "password123" values before allowing the deletion to occur. This would ensure that only the administrator can delete accounts.
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```python
 class AccountManager:
@@ -269,7 +271,7 @@ This code is mitigated against CWE-306
 
 ### .NET
 
-### _This is an example of the vulnerable code._
+#### _Vulnerable code_
 
 ```vbnet
 using System;
@@ -330,7 +332,7 @@ namespace AccountManager
 
 A more secure implementation would require authentication before allowing the user to delete an account, such as by passing in the username and password to the **`DeleteAccount()`** method and checking them against the hardcoded values in the **`Login()`** method.
 
-### _Here is an example of Mitigated code_
+#### _Mitigated code_
 
 ```java
 using System;
