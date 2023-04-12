@@ -1,6 +1,6 @@
 # SecuCODE
 
-<figure><img src=".gitbook/assets/Secucode (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Secucode.jpg" alt=""><figcaption></figcaption></figure>
 
 A Repository where you can find examples for Vulnerable and Mitigated code based on CWE categorization.
 

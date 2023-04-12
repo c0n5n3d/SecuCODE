@@ -197,7 +197,7 @@ This code is mitigated against CWE-352
 
 ### .NET
 
-#### __
+####
 
 #### _Vulnerable code._
 
