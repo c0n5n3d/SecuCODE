@@ -1,9 +1,3 @@
----
-description: >-
-  To propose a new CWE Class category, kindly utilize the following template
-  while submitting a PR.
----
-
 # 🗒 Template
 
 ### What is CWE about?
