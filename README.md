@@ -1,6 +1,6 @@
 # SecuCODE
 
-<figure><img src=".gitbook/assets/Secucode.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Secucode (1).jpg" alt=""><figcaption></figcaption></figure>
 
 A Repository where you can find examples for Vulnerable and Mitigated code based on CWE categorization.
 
@@ -28,4 +28,3 @@ A Repository where you can find examples for Vulnerable and Mitigated code based
 <mark style="color:green;">To contribute to our project, please refer to our GitHub profile to submit a PR. We welcome all contributions, whether it's to correct mistakes, add new CWE Class categories, or suggest improvements to our educational resources. By submitting a PR, you can help us make this project even better and support the wider community in understanding secure coding practices.</mark>
 
 <mark style="color:green;">You can find our GitHub profile</mark> [<mark style="color:blue;">https://github.com/c0n5n3d/SecuCODE</mark>](https://github.com/c0n5n3d/SecuCODE) <mark style="color:green;">and follow the instructions for submitting a PR. We appreciate your interest and thank you in advance for your contributions!</mark>
-
