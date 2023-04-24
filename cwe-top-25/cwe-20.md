@@ -44,7 +44,7 @@
 
 </details>
 
-## What is CWE 20 about?
+## About CWE ID 20
 
 _<mark style="color:green;">**Improper Input Validation**</mark>_
 

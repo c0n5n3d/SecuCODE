@@ -44,7 +44,7 @@
 
 </details>
 
-## What is CWE 78 About?
+## About CWE ID 78
 
 _<mark style="color:green;">**Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')**</mark>_
 

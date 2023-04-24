@@ -4,7 +4,7 @@
 
 <summary>Disclaimer</summary>
 
-* <mark style="color:red;">The code provided is for</mark> <mark style="color:red;"></mark><mark style="color:red;">`**educational purposes**`</mark> <mark style="color:red;"></mark><mark style="color:red;">only and should not be used in a</mark> <mark style="color:red;"></mark><mark style="color:red;">`**production environment**`</mark> <mark style="color:red;"></mark><mark style="color:red;">without proper review and testing.</mark>
+* <mark style="color:red;">The code provided is for</mark> <mark style="color:red;">`**educational purposes**`</mark> <mark style="color:red;">only and should not be used in a</mark> <mark style="color:red;">`**production environment**`</mark> <mark style="color:red;">without proper review and testing.</mark>
 
 <!---->
 
@@ -44,7 +44,7 @@
 
 </details>
 
-## What is CWE 79 about?
+## About CWE ID 79
 
 _<mark style="color:green;">**Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')**</mark>_
 

@@ -17,9 +17,16 @@
   * [CWE 352](cwe-top-25/cwe-id-352.md)
   * [CWE 434](cwe-top-25/cwe-id-434.md)
   * [CWE 306](cwe-top-25/cwe-id-306.md)
+  * [CWE 22](cwe-top-25/cwe-22.md)
+  * [CWE 476](cwe-top-25/cwe-476.md)
 * [🗒 Template](template.md)
 * [❗ Disclaimer](disclaimer.md)
 
 ## Contributors
 
 * [Leaders](contributors/leaders.md)
+
+## Bookmarked Repo's and Links
+
+* [Github Repositories](bookmarked-repos-and-links/github-repositories.md)
+* [Website Links](bookmarked-repos-and-links/website-links.md)

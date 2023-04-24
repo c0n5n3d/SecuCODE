@@ -44,7 +44,7 @@
 
 </details>
 
-## What is CWE 89 about?
+## About CWE ID 89
 
 _<mark style="color:green;">**Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')**</mark>_
 
