@@ -63,7 +63,7 @@ This Vulnerability occurs when an application does not properly control input ac
 
 ## `C`
 
-* Let us consider an example case and understand the CWE 20 with context of Vulnerable code and Mitigated code.
+* Let us consider an example case and understand the CWE 22 with context of Vulnerable code and Mitigated code.
 
 ### Vulnerable Code
 
