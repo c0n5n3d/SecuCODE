@@ -1,4 +1,4 @@
-# CWE 78
+# CWE 78/77
 
 <details>
 
@@ -44,9 +44,11 @@
 
 </details>
 
-## About CWE ID 78
+## About CWE ID 78/77
 
 _<mark style="color:green;">**Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')**</mark>_
+
+_<mark style="color:green;">**Improper Neutralization of Special Elements used in a Command ('Command Injection')**</mark>_
 
 The vulnerability arises when an application fails to properly sanitize or validate user input that is used to construct a system command.
 
@@ -61,7 +63,7 @@ The vulnerability arises when an application fails to properly sanitize or valid
 
 ## `PHP`
 
-* Let us consider an example case and understand the CWE 787 with context of Vulnerable code and Mitigated code.
+* Let us consider an example case and understand the CWE 78/77 with context of Vulnerable code and Mitigated code.
 
 ### Vulnerable Code
 
@@ -336,5 +338,7 @@ int main(int argc, char **argv) {
 ## References
 
 [OS Command Injection Defense - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/OS\_Command\_Injection\_Defense\_Cheat\_Sheet.html)
+
+{% embed url="https://cwe.mitre.org/data/definitions/77.html" %}
 
 {% embed url="https://cwe.mitre.org/data/definitions/78.html" %}
