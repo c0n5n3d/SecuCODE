@@ -27,6 +27,8 @@
   * [CWE 119](cwe-top-25/cwe-119.md)
   * [CWE 276](cwe-top-25/cwe-276.md)
   * [CWE 91](cwe-top-25/cwe-91.md)
+  * [CWE 918](cwe-top-25/cwe-918.md)
+  * [CWE 362](cwe-top-25/cwe-362.md)
 * [🗒 Template](template.md)
 * [❗ Disclaimer](disclaimer.md)
 
